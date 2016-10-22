@@ -38,6 +38,7 @@ set(config_module_list
 	drivers/ets_airspeed
 	drivers/meas_airspeed
 	#drivers/frsky_telemetry
+	examples/px4_simple_app
 	modules/sensors
 	#drivers/mkblctrl
 	drivers/px4flow
